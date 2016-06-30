@@ -7,4 +7,7 @@ Dadada
 
 A. a new branch named Madoka
 
-#madoka please complete this function
+int main()
+{
+	foobar
+}
