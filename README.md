@@ -6,3 +6,8 @@ Min's Read File
 Dadada
 
 A. a new branch named Madoka
+
+int main()
+{
+	foobar
+}
